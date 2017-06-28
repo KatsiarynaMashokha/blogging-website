@@ -26,3 +26,9 @@ div.about-me {
   font-variant: small-caps;
   text-align: justify;
 }
+span.alpha {
+  color: red;
+}
+span.beta {
+  color: blue;
+}
